@@ -1,0 +1,764 @@
+{
+  "site": {
+    "name": "Daniel J Lewis",
+    "role": "Game Design Leader",
+    "focus": [
+      "Metagame",
+      "Systems Design",
+      "F2P Monetisation"
+    ],
+    "pitch": "I design the systems that keep players coming back: progression, economies and monetisation, built on more than a decade of shipping and running free-to-play games across mobile, Roblox and PC.",
+    "location": "Barcelona",
+    "email": "lewisd07@hotmail.co.uk",
+    "linkedin": "https://www.linkedin.com/in/lewisd07/",
+    "cv": "assets/docs/DanielLewis_CV_2026.pdf",
+    "heroReel": [
+      "chickenlife",
+      "trainsimworldtycoon",
+      "clonerumble",
+      "multiversity",
+      "lordbound"
+    ],
+    "now": {
+      "text": "Currently Senior Game Designer at Madbox on Pocket Champs",
+      "href": "pocketchamps.html"
+    }
+  },
+  "stats": [
+    {
+      "value": "10+",
+      "label": "years designing games"
+    },
+    {
+      "value": "13",
+      "label": "games shipped or developed across mobile, Roblox, Sandbox & PC"
+    },
+    {
+      "value": "+40%",
+      "label": "late-game IAP ARPDAU from Trophy Road rework",
+      "project": "pocketchamps"
+    },
+    {
+      "value": "Top 300",
+      "label": "on Roblox by concurrent players",
+      "project": "trainsimworldtycoon"
+    },
+    {
+      "value": "3×",
+      "label": "player spend after shop & power-up redesign",
+      "project": "chickenlife"
+    }
+  ],
+  "pillars": [
+    {
+      "title": "Metagame & Progression",
+      "text": "Collection, upgrade and progression layers that give players long-term goals, from Pocket Champs' Trophy Road and Wild Cards to the build-and-expand loop of a Roblox tycoon and the clone rosters of Rick & Morty: Clone Rumble.",
+      "projects": [
+        "pocketchamps",
+        "trainsimworldtycoon",
+        "clonerumble"
+      ]
+    },
+    {
+      "title": "Systems & Economy Design",
+      "text": "Economy balance and pricing, drop tables, resource distribution and gacha rates, modelled in spreadsheets and tuned against live data.",
+      "projects": [
+        "pocketchamps",
+        "trainsimworldtycoon",
+        "clonerumble"
+      ]
+    },
+    {
+      "title": "F2P Monetisation & LiveOps",
+      "text": "Shops, offers, bundles, reward calendars and event cadences, with player segmentation and triggers so the right offer reaches the right player at the right moment, plus the A/B tests and KPI analysis that show what actually works.",
+      "projects": [
+        "pocketchamps",
+        "chickenlife",
+        "mobile"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "when": "2024 – Now",
+      "org": "Madbox",
+      "role": "Senior Game Designer",
+      "text": "Pocket Champs, a live mobile PvP racing game. I own MTX and design across metagame, economy and LiveOps: Trophy Road, Wild Cards, the Gadget Rebalance, offers, seasons and the webstore.",
+      "place": "Barcelona",
+      "projects": [
+        "pocketchamps"
+      ]
+    },
+    {
+      "when": "2021 – 2024",
+      "org": "Talewind Studios",
+      "role": "Design Director",
+      "text": "Led design across Roblox and Sandbox titles enjoyed by over 2 million users every month, including Chicken Life, Train Sim World: Tycoon, Sword Factory Simulator and The Multiversity.",
+      "projects": [
+        "trainsimworldtycoon",
+        "chickenlife",
+        "multiversity"
+      ]
+    },
+    {
+      "when": "2020 – 2021",
+      "org": "Tag Games",
+      "role": "Game System Designer",
+      "text": "Quests, overworld level design and gameplay documentation for an unannounced 4X RPG for mobile."
+    },
+    {
+      "when": "2019 – 2020",
+      "org": "Big Pixel Studios",
+      "role": "Game Designer",
+      "text": "Questing, metagame balancing, economy and LiveOps on Rick & Morty: Clone Rumble, an unreleased squad RPG taken through soft launch.",
+      "projects": [
+        "clonerumble"
+      ]
+    },
+    {
+      "when": "2013 – 2019",
+      "org": "Outplay Entertainment",
+      "role": "Lead Game Designer",
+      "text": "Grew from QA to Game Designer to Lead Designer. Led the design team on Pirate Puzzle Blast (TIGA 2018 Best Puzzle Game), alongside Mystery Match and Crafty Candy.",
+      "projects": [
+        "mobile"
+      ]
+    },
+    {
+      "when": "2012 – 2019",
+      "org": "Modding & personal projects",
+      "role": "Designer, writer, scripter",
+      "text": "Skyrim: Undeath (solo, nearly 1.6M downloads) and Skyrim: Lordbound.",
+      "projects": [
+        "undeath",
+        "lordbound"
+      ]
+    },
+    {
+      "when": "2010 – 2014",
+      "org": "Abertay University",
+      "role": "BA (Hons) Game Design & Production Management",
+      "text": "First Class degree. Recipient of the David Carnegie Award for Best Overall Performance in Game Design (2013)."
+    }
+  ],
+  "about": {
+    "photo": "me",
+    "paragraphs": [
+      "I'm a game design leader who loves creating delightful, engaging and surprising experiences for players around the world. Over more than a decade, from QA through to Design Director, I've worked across almost every part of game design: free-to-play mobile and match-3, Roblox games and LiveOps, AAA modding, scripting and worldbuilding.",
+      "Today I'm a Senior Game Designer at Madbox in Barcelona, working on Pocket Champs with a focus on metagame, economy, LiveOps and monetisation.",
+      "My interest in games started early with map editors and modding tools for The Elder Scrolls: Oblivion and Skyrim, Warcraft III and StarCraft II, and that's where I learned design, content creation and scripting. Outside of games I'm into new technology, architecture, psychology and investing."
+    ],
+    "highlights": [
+      "Over a decade of industry experience and design leadership in multidisciplinary teams.",
+      "Managed, mentored and led teams of designers and creatives.",
+      "Shipped multiple titles from ideation through development, then ran their live operations and events.",
+      "Design direction, product ownership, roadmapping and working with stakeholders and executives.",
+      "Designing to KPI targets and folding data insights and player feedback back into the design.",
+      "Spreadsheet wizard with economy design and modelling experience.",
+      "Strong writing, mission and quest design, and scripting experience.",
+      "Clear design communication with 2D/3D visualisation tools, Unity and Unreal Engine."
+    ]
+  },
+  "categories": {
+    "f2p": "Mobile & F2P",
+    "roblox": "Roblox & UGC",
+    "pc": "PC & Modding",
+    "monetisation": "Monetisation",
+    "liveops": "LiveOps",
+    "economy": "Economy",
+    "meta": "Metagame",
+    "narrative": "Narrative & Quests",
+    "level": "Level Design"
+  },
+  "groups": [
+    {
+      "id": "featured",
+      "title": "Featured work",
+      "kicker": "F2P · Metagame · Monetisation",
+      "projects": [
+        "pocketchamps",
+        "trainsimworldtycoon",
+        "mobile",
+        "chickenlife",
+        "clonerumble"
+      ]
+    },
+    {
+      "id": "worlds",
+      "title": "Worlds & narrative",
+      "kicker": "Quest, level & world design",
+      "projects": [
+        "multiversity",
+        "undeath",
+        "lordbound"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "pocketchamps",
+      "title": "Pocket Champs",
+      "tagline": "A live mobile idle racing game played by hundreds of thousands of players a day, where I own system design, economy balance and monetisation.",
+      "studio": "Madbox",
+      "platform": "Mobile (iOS & Android) · Live",
+      "role": "Senior Game Designer",
+      "dates": "Dec 2024 – Present",
+      "tags": [
+        "f2p",
+        "meta",
+        "economy",
+        "monetisation",
+        "liveops"
+      ],
+      "cover": "pocketchamps-keyart",
+      "banner": "pocketchamps-banner",
+      "stats": [
+        {
+          "value": "400K+",
+          "label": "peak daily active players"
+        },
+        {
+          "value": "−53%",
+          "label": "reduced endgame player churn"
+        },
+        {
+          "value": "+40%",
+          "label": "IAP ARPDAU for late-game players"
+        },
+        {
+          "value": "+8%",
+          "label": "D90–180 retention"
+        }
+      ],
+      "summary": [
+        "Pocket Champs is Madbox's live idle racing game on iOS and Android. Players train and upgrade their Champs and gadgets, climb the Trophy Road through leagues and islands, and race rivals around the world, with new seasons, events and offers rolling out every few weeks.",
+        "My role covers three core responsibilities: system and feature design, economy balance, and monetisation (MTX). In practice that means designing late-game progression and new currencies, rebalancing the game's economy, and owning the offers, seasons and webstore programmes that sit on top of them.",
+        "My biggest win was the Trophy Road rework, which removed the churn spike at the Champions League wall and lifted late-game spend and long-term retention. While daily players dipped, revenue per player and daily payer conversion both reached their highest levels in August 2026."
+      ],
+      "did": [
+        "Trophy Road rework: lead designer. Designed the new format of the Champions League and introduced Island Cups as a new endgame progression system, including its race structure and reward systems, to keep endgame players engaged. Endgame churn fell 53%, IAP ARPDAU rose 40% for late-game players, and D90–180 retention improved 8%.",
+        "Island Choice & Fortunes: led design of Trophy Road phase 2, a new late-game spend loop. Champions League daily payers rose 17%, and the new island offer converted at over twice the rate of the one it replaced.",
+        "Wild Cards: took a new upgrade currency from idea to A/B test to full release. Wild Cards now fund about 30% of gadget upgrades (up from 11%) and became the #2 special-offer line in their first month.",
+        "Gadget Rebalance: built an AI-assisted economy simulator and used it to rebuild shard and gold distribution across the gadget economy. The rebalance delivered longer-term depth of spend by refocusing spending on upgrading gadgets rather than first obtaining them, and shipped to all players.",
+        "MTX ownership: offer optimisations (Intro Power Offer +22% purchases per DAU, Progress Pack +66% revenue per DAU), new Progression Packs that drove 4.7% of all first purchases in their first month, season offers across 8 LiveOps seasons, and an offer-quality analysis that now steers the offer roadmap.",
+        "Webstore loyalty programme: designed the monthly loyalty ladder, which helped grow webstore revenue roughly 3× in four months alongside Direct to Checkout.",
+        "Training Playground: owned the design of the stickiest daily event at launch, with 66% daily engagement and up to 10% more playtime.",
+        "Design lead on major game releases, managing the smooth implementation of other team members' design work into each release version. Also rebuilt the team's GDD process and mentored junior designers."
+      ],
+      "links": [
+        {
+          "label": "App Store",
+          "href": "https://apps.apple.com/us/app/pocket-champs-pvp-racing-games/id1542776143"
+        },
+        {
+          "label": "Google Play",
+          "href": "https://play.google.com/store/apps/details?id=com.pocketchamps.game"
+        }
+      ],
+      "pages": [
+        "pocketchamps"
+      ]
+    },
+    {
+      "id": "chickenlife",
+      "title": "Chicken Life",
+      "tagline": "A whimsical Roblox roleplay game where I owned the roadmap and drove spend and retention from live KPI data.",
+      "studio": "Talewind Studios",
+      "platform": "Roblox",
+      "role": "Design Director · Product Owner",
+      "dates": "Feb 2022 – Mar 2023",
+      "tags": [
+        "roblox",
+        "monetisation",
+        "meta",
+        "liveops"
+      ],
+      "cover": "clthumbnail",
+      "banner": "bg-1907837483",
+      "stats": [
+        {
+          "value": "3×",
+          "label": "player spend"
+        },
+        {
+          "value": "+6%",
+          "label": "D1–D7 retention"
+        },
+        {
+          "value": "+0.6%",
+          "label": "player conversion"
+        },
+        {
+          "value": "Top 100",
+          "label": "Roblox charts & D1 benchmarks"
+        }
+      ],
+      "summary": [
+        "Play as a chicken in a colourful world of whimsy and mayhem. Peck up grass to lay eggs and nurture them until you have a swarm of small, adorable and unique chicks of your own to look after and protect. Team up with fellow chickens (or don't), gather resources and build the ultimate coop to survive the night, when the big bad wolves come out looking for a meal.",
+        "Chicken Life is a popular Roblox roleplaying game that reached the top 100 charts and top 100 benchmarks for D1 retention. As Design Director I owned its roadmap, building a programme of features and improvements from KPI data to make it the greatest chicken game on Roblox."
+      ],
+      "did": [
+        "Product owner: coordinated the roadmap and feature development, targeting improvements at specific KPIs.",
+        "Designed features and systems, plus targeted improvements to the core gameplay.",
+        "Oversaw the core gameplay overhaul of eggs and hatching, which introduced unique, collectable chicks and a progression system. Player conversion rose by 0.6% and D1–D7 retention by 6%.",
+        "Designed and oversaw best-practice improvements to the in-game shop and monetisable power-ups, which tripled player spend.",
+        "Introduced new cosmetics for player models, eggs and building pieces as part of ongoing LiveOps delivery."
+      ],
+      "links": [
+        {
+          "label": "Play on Roblox",
+          "href": "https://www.roblox.com/games/6149941304/Chicken-Life-Avatars"
+        }
+      ],
+      "pages": [
+        "chickenlife"
+      ]
+    },
+    {
+      "id": "trainsimworldtycoon",
+      "title": "Train Sim World: Tycoon",
+      "tagline": "Tycoon meets train sim on Roblox, built for Dovetail Games. I was the sole designer, from concept to launch.",
+      "studio": "Talewind Studios × Dovetail Games",
+      "platform": "Roblox",
+      "role": "Design Director · Sole Designer",
+      "dates": "Mar 2024 – Nov 2024",
+      "tags": [
+        "roblox",
+        "economy",
+        "monetisation",
+        "meta"
+      ],
+      "cover": "tsw-tycoon-keyart-2-720",
+      "banner": "xmas1",
+      "stats": [
+        {
+          "value": "2k+",
+          "label": "concurrent players at launch"
+        },
+        {
+          "value": "Top 300",
+          "label": "Roblox by active CCU"
+        },
+        {
+          "value": "#1",
+          "label": "most-played train game in the world (at launch)"
+        }
+      ],
+      "summary": [
+        "Train Sim World: Tycoon combines a streamlined train simulator with the 'build and expand' tycoon genre on Roblox. Players are newly appointed Station Masters, building and upgrading their ever-expanding station to earn money for more trains. Its huge hand-crafted world can be explored as a driver or a passenger, and it was built to inspire a whole new generation of young train fans.",
+        "I was the sole designer, taking the game from initial concept to finished design and owning feature production and iteration throughout, working closely with Dovetail Games.",
+        "The game drew more than 2k concurrent players at launch, plenty of praise from popular YouTubers and a place in the Roblox top 300 by active players. That beat Dovetail's own commercial releases of Train Sim World 3 and 4, making it the most popular train game in the world at the time."
+      ],
+      "did": [
+        "Designed the initial features that took the game from concept to prototype and on to full release.",
+        "Set up the content pipeline and the initial content requirements.",
+        "Owned the tycoon economy balance and pricing.",
+        "Designed and configured the in-game shop and MTX products.",
+        "Worked directly with environment and station artists so unlocks flowed cohesively with the tycoon progression.",
+        "Troubleshot technical elements such as track layout."
+      ],
+      "links": [
+        {
+          "label": "Play on Roblox",
+          "href": "https://www.roblox.com/games/18289734236/Train-Sim-World-Tycoon"
+        }
+      ],
+      "pages": [
+        "trainsimworldtycoon"
+      ]
+    },
+    {
+      "id": "clonerumble",
+      "title": "Rick & Morty: Clone Rumble",
+      "tagline": "A squad RPG on a huge licensed IP: quests, metagame balancing, gacha economy and LiveOps through soft launch.",
+      "studio": "Big Pixel Studios",
+      "platform": "Mobile (iOS & Android) · Unreleased",
+      "role": "Game Designer",
+      "dates": "Feb 2019 – Nov 2020",
+      "tags": [
+        "f2p",
+        "economy",
+        "monetisation",
+        "liveops",
+        "meta",
+        "narrative"
+      ],
+      "cover": "screenshot-2020-11-10-at-18-38-58",
+      "banner": "bg-1231894263",
+      "stats": [],
+      "summary": [
+        "Rick & Morty: Clone Rumble is a collection RPG for the hugely popular Rick & Morty IP, from the creators of Pocket Mortys. Players collect and upgrade a roster of quirky clones from the show and battle rival Ricks to become the Rickest Rick of them all at Rickmania, the hot new interdimensional contest.",
+        "I designed the questing system and worked with the creative director and outsourced writers on on-brand dialogue and narrative for every adventure, leading a pod of developers and artists through new content.",
+        "During soft launch I took over metagame balancing: the economy of upgrade items and feature rewards, gacha drop rates, and monetisation features such as bundles and special offers."
+      ],
+      "did": [
+        "Designed and implemented exploration and mission content.",
+        "Iterated on content using internal and external playtests and live player data.",
+        "Built the content creation pipeline.",
+        "Oversaw a team of artists and developers on mission content, assets and features.",
+        "Economy balancing: drop tables, resources and gacha balance.",
+        "Balanced sales, offers and reward calendars.",
+        "Used analytics to make targeted improvements during soft launch.",
+        "LiveOps design: scheduled events and sales and chose experiments for A/B tests."
+      ],
+      "links": [],
+      "pages": [
+        "clonerumble"
+      ]
+    },
+    {
+      "id": "mobile",
+      "title": "Match-3 Portfolio",
+      "tagline": "Lead Game Designer at Outplay Entertainment on Pirate Puzzle Blast, alongside Mystery Match and Crafty Candy.",
+      "studio": "Outplay Entertainment",
+      "platform": "Mobile (iOS & Android)",
+      "role": "Lead Game Designer",
+      "dates": "Apr 2015 – Feb 2019",
+      "tags": [
+        "f2p",
+        "liveops",
+        "monetisation",
+        "level"
+      ],
+      "cover": "ccmaps",
+      "banner": "ccmaps",
+      "stats": [],
+      "summary": [
+        "Mystery Match, Crafty Candy and Pirate Puzzle Blast are a suite of casual match-3 flagship titles from mobile studio Outplay Entertainment. I was Lead Game Designer on Pirate Puzzle Blast, overseeing every area of the game from concept through to live operations, and it won the TIGA 2018 award for Best Puzzle Game.",
+        "I worked with executives, stakeholders and the team at every level to design features that raised the quality of the game and hit KPI targets and business objectives. I managed the design team's performance and professional development, and kept events and a steady cadence of new content flowing through the game's live operations.",
+        "I supported the team through organisation, strategy and collaboration to improve our core KPIs: retention, engagement and monetisation."
+      ],
+      "did": [
+        "Led a design team across content, features and process improvements to hit milestones and KPIs.",
+        "Wrote documentation to communicate design vision and direction.",
+        "Worked directly with executives and stakeholders to steer product design.",
+        "Design lead for live operations and the weekly update cycle.",
+        "Took several titles from concept development through to delivery.",
+        "Used data analysis, models and tools to understand player behaviour and improve KPIs.",
+        "Co-designed and balanced complex game systems.",
+        "Designed and oversaw UI and UX flows.",
+        "Mentored junior designers and guided their professional development."
+      ],
+      "links": [
+        {
+          "label": "Pirate Puzzle Blast",
+          "href": "https://outplay.com/games/booty-quest"
+        },
+        {
+          "label": "Mystery Match",
+          "href": "https://outplay.com/games/mystery-match"
+        },
+        {
+          "label": "Crafty Candy",
+          "href": "https://outplay.com/games/crafty-candy"
+        }
+      ],
+      "pages": [
+        "mobile"
+      ],
+      "awards": [
+        "TIGA 2018 · Best Puzzle Game (Pirate Puzzle Blast)"
+      ]
+    },
+    {
+      "id": "multiversity",
+      "title": "The Multiversity",
+      "tagline": "Four story-driven action RPG chapters for The Sandbox, designed and built from greybox to final polish.",
+      "studio": "Talewind Studios",
+      "platform": "The Sandbox",
+      "role": "Design Director",
+      "dates": "Feb 2022 – Mar 2023",
+      "tags": [
+        "roblox",
+        "narrative",
+        "level"
+      ],
+      "cover": "websiteillustrationflat-1",
+      "banner": "bg-1591326410",
+      "stats": [
+        {
+          "value": "4",
+          "label": "playable chapters"
+        },
+        {
+          "value": "2.5h+",
+          "label": "of gameplay"
+        },
+        {
+          "value": "Top rated",
+          "label": "experience on The Sandbox"
+        }
+      ],
+      "summary": [
+        "Enrol in an educational institute like no other. The Multiversity studies the knowledge of all worlds and keeps the most valuable artifacts of the known and unknown cosmos. Meet the faculty and your fellow students, sit your exams, and venture into bizarre and bedazzling worlds to retrieve artifacts for the archives.",
+        "The Multiversity is a four-chapter set of experiences built for The Sandbox. Players explore the campus and take portals to outlandish worlds, completing quests, battling local nuisances and rival treasure hunters, solving puzzles and dodging hazards along the way."
+      ],
+      "did": [
+        "Worked with a small internal team of artists to conceptualise and build the world from start to finish.",
+        "Owned all technical design and implementation.",
+        "World and level design with The Sandbox's voxel tools, from greybox to polished final environment.",
+        "Built quest logic with node-, trigger- and event-based setups.",
+        "Ran playtests and qualitative feedback sessions.",
+        "Worked directly with The Sandbox team to deliver milestones smoothly."
+      ],
+      "links": [
+        {
+          "label": "Chapter 1",
+          "href": "https://www.sandbox.game/en/experiences/Multiversity%20chapter%201:%20The%20Black%20Daisy/2395c661-59dd-49e0-9457-f29ea39d88b7/page/"
+        },
+        {
+          "label": "Chapter 2",
+          "href": "https://www.sandbox.game/en/experiences/Multiversity%20chapter%202:%20Beware%20the%20Cuckoo/c0c26122-17ee-4de0-b192-afd61f5c6e55/page/"
+        },
+        {
+          "label": "Chapter 3",
+          "href": "https://www.sandbox.game/en/experiences/Multiversity%20chapter%203:%20The%20Lost%20Pyramid/64d7c84b-5d8d-4a89-9863-e9ab326c9388/page/"
+        },
+        {
+          "label": "Chapter 4",
+          "href": "https://www.sandbox.game/en/experiences/Multiversity%20chapter%204%20:%20The%20Hanging%20Gardens%20of%20Beebylon/a855e361-4b32-4ec0-9c89-2703e68b6b75/page/"
+        }
+      ],
+      "pages": [
+        "multiversity"
+      ]
+    },
+    {
+      "id": "lordbound",
+      "title": "Skyrim: Lordbound",
+      "tagline": "A DLC-sized Skyrim expansion: senior quest and narrative design, world building and level design.",
+      "studio": "Lordbound team (~20 developers)",
+      "platform": "PC · Skyrim mod",
+      "role": "Senior Quest & Narrative Designer · World & Level Designer",
+      "dates": "Jan 2015 – Feb 2019",
+      "tags": [
+        "pc",
+        "narrative",
+        "level"
+      ],
+      "cover": "lordbound",
+      "banner": "bg-1008553259",
+      "stats": [
+        {
+          "value": "16",
+          "label": "main quests designed, written & scripted"
+        },
+        {
+          "value": "67",
+          "label": "characters written"
+        },
+        {
+          "value": "3 km²",
+          "label": "of new world"
+        },
+        {
+          "value": "30h+",
+          "label": "of new content"
+        }
+      ],
+      "press": [
+        {
+          "label": "Kotaku",
+          "href": "https://kotaku.com/skyrim-expansion-mod-lordbound-shows-off-environments-i-1821855616"
+        },
+        {
+          "label": "PC Gamer",
+          "href": "https://www.pcgamer.com/lordbound-is-a-huge-expansion-sized-mod-for-skyrim/"
+        },
+        {
+          "label": "ModDB",
+          "href": "https://www.moddb.com/mods/lordbound"
+        }
+      ],
+      "summary": [
+        "Lordbound is a DLC-sized modification for The Elder Scrolls V: Skyrim, built by an international team of around 20 hobbyists, modders and professional developers.",
+        "It adds 3 square kilometres of new land and three faction-based storylines about the war in the valley, plus plenty of side stories. It's a choice-driven experience: players' past choices in Skyrim affect how NPCs react, questing is freeform, and their actions ultimately decide the fate of the valley, for better or much worse.",
+        "As one of the core quest designers and feature owners, and as a world builder and level designer, I took core gameplay and story areas from concept to completion. My work touched every area of Bethesda's Creation Kit, from art pipelines and dialogue trees to gameplay scripting and systems like weather and AI."
+      ],
+      "did": [
+        "Senior quest and narrative designer.",
+        "Gameplay, quest and ability scripting in Papyrus, Skyrim's native scripting language.",
+        "Dialogue writing and voice actor coordination.",
+        "Quest design and implementation.",
+        "World building and level design: dungeons, exterior zones and set pieces.",
+        "Model and texture modification.",
+        "Mentoring and technical support for the team."
+      ],
+      "sections": [
+        {
+          "title": "Quest design",
+          "paragraphs": [
+            "I was responsible for the direction, writing and implementation of an entire faction quest branch with multiple story resolutions, including the background and dialogue for its characters.",
+            "That included extensive in-engine scripting of combat encounters, gameplay moments, unique boss fights, mechanics and quest logic, as well as supporting NPCs in towns and dungeons who make the world feel lived in, with their own opinions on what's happening around them.",
+            "I designed, wrote and implemented 16 main quests, each around an hour of gameplay, and wrote backgrounds and dialogue for 67 unique characters."
+          ],
+          "steps_title": "Our quest design process",
+          "steps": [
+            "Plot the big beats and key moments for the overall narrative of the questline or faction chain.",
+            "Decide how this quest delivers on its beat: the feeling it should evoke or the information it should reveal. That's the core the quest is built around.",
+            "Plan the high-level narrative and gameplay beats and flow, and iterate with the team.",
+            "Build a 'skeleton' quest structure with planned stages and deliverables.",
+            "Write the NPC dialogue that delivers those beats.",
+            "Implement the quest structure with stages, objectives and dialogue.",
+            "Add dialogue conditions and scripting to advance stages and complete objectives.",
+            "Implement logic triggers and fully script the more elaborate gameplay and scenes.",
+            "Test, iterate and polish!"
+          ],
+          "pages": [
+            "lordboundquests"
+          ]
+        },
+        {
+          "title": "World & level design",
+          "paragraphs": [
+            "I built many of Lordbound's core locations and dungeons, including several major towns and quest hubs, quest set-piece locations and dungeon layouts.",
+            "Early in world development I shaped the layouts and geography of many regions and developed the mod's weather system.",
+            "Every location was designed around both gameplay and narrative from the start, with environmental storytelling that reinforces the quests and lore and leaves mysteries for players to puzzle over. All images show spaces I concepted and built."
+          ],
+          "pages": [
+            "lordboundlevels"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "ModDB page",
+          "href": "https://www.moddb.com/mods/lordbound"
+        }
+      ],
+      "note": "Downloadable media and project files available on request.",
+      "pages": [
+        "lordbound"
+      ]
+    },
+    {
+      "id": "undeath",
+      "title": "Skyrim: Undeath",
+      "tagline": "My solo Skyrim expansion: a new questline, dungeons and transformation magic, downloaded nearly 1.6 million times.",
+      "studio": "Solo project",
+      "platform": "PC · Skyrim mod",
+      "role": "Designer, scripter & producer",
+      "dates": "Jan 2012 – May 2013",
+      "tags": [
+        "pc",
+        "narrative",
+        "level"
+      ],
+      "cover": "321679923-1",
+      "banner": "bg-862709469",
+      "stats": [
+        {
+          "value": "1.6M",
+          "label": "downloads across Classic & Remastered"
+        },
+        {
+          "value": "3–5h",
+          "label": "of new content"
+        },
+        {
+          "value": "Mod of the Week",
+          "label": "PC Gamer"
+        }
+      ],
+      "press": [
+        {
+          "label": "PC Gamer",
+          "href": "https://www.pcgamer.com/mod-of-the-week-undeath-for-skyrim/"
+        },
+        {
+          "label": "Nexus Mods",
+          "href": "http://www.nexusmods.com/skyrim/mods/40607/"
+        }
+      ],
+      "summary": [
+        "Undeath adds roughly 3–5 hours of new content to The Elder Scrolls V: Skyrim: a new questline with multiple endings, new dungeons, upgradeable player homes and custom transformation spells. It was featured on PC Gamer and in Skyrim Nexus's 'Mod of the Month' list, and has been downloaded nearly 1.6 million times across its Classic and Remastered editions.",
+        "It began as a personal mod and was polished for full release. I designed, scripted and built all of the content myself, and worked with a composer and voice actors to add a bespoke score and fully voiced NPCs. I also made the trailer and promotional material, with voice-over by Matthew Wade and music by León van der Stadt."
+      ],
+      "did": [
+        "Quest and narrative design.",
+        "Designed and implemented new spells and item drops.",
+        "Ability and loot balancing.",
+        "Dungeon and exterior zone design.",
+        "Gameplay, quest and ability scripting in Papyrus.",
+        "Model and texture modification.",
+        "Coordinated external voice actors and a composer.",
+        "Audio editing and implementation.",
+        "Player support and marketing, including the trailer."
+      ],
+      "links": [
+        {
+          "label": "Nexus Mods page",
+          "href": "http://www.nexusmods.com/skyrim/mods/40607/"
+        }
+      ],
+      "pages": [
+        "undeath"
+      ]
+    },
+    {
+      "id": "battlemage",
+      "title": "Battlemage",
+      "tagline": "A solo 1v1v1 MOBA total conversion for StarCraft II, from design documents through to final implementation.",
+      "studio": "Solo project",
+      "platform": "PC · StarCraft II mod",
+      "role": "Designer & developer",
+      "dates": "Dec 2013 – May 2014",
+      "tags": [
+        "pc",
+        "economy",
+        "level"
+      ],
+      "cover": "bg-514312432",
+      "banner": "bg-514312432",
+      "stats": [
+        {
+          "value": "1v1v1",
+          "label": "MOBA scenario"
+        },
+        {
+          "value": "Total",
+          "label": "conversion of SC2 assets"
+        },
+        {
+          "value": "Solo",
+          "label": "concept to completion"
+        }
+      ],
+      "summary": [
+        "Battlemage pits warring magical institutions against one another in a free-for-all battle for control of the land. Level up your faction leader, upgrade your minions or call in powerful reinforcements, then lead the charge to wipe out your opponents' headquarters.",
+        "The mod puts a MOBA twist on StarCraft II, totally converting its units, structures, environments and parts of the UI. Players fight for control points at strategic locations and use skill, minions and elite units to overpower their foes.",
+        "The goal was to push my production and design skills: a unique, fully playable experience taken from early concepts all the way to technical and artistic implementation, backed by full documentation including flowcharts and behaviour diagrams."
+      ],
+      "did": [
+        "Gameplay and system concepting and design.",
+        "Pre-visualisation: diagrams, flowcharts and design documentation.",
+        "Gameplay event and trigger scripting.",
+        "Re-texturing, modifying, importing and implementing art assets.",
+        "Ability design and balancing for a 1v1v1 MOBA.",
+        "Coordinated outsourced artwork (unit portraits).",
+        "Map design."
+      ],
+      "docs": [
+        {
+          "label": "Design Document (excerpt)",
+          "text": "Outlines the concepts and features of the mod.",
+          "href": "assets/docs/battlemage_gameplay_design_document_excerpt.pdf"
+        },
+        {
+          "label": "'How it Works' Document",
+          "text": "What was changed from the original game, and the processes and decisions behind it.",
+          "href": "assets/docs/how_it_works_document.pdf"
+        }
+      ],
+      "links": [],
+      "pages": [
+        "battlemage"
+      ]
+    }
+  ],
+  "play": {
+    "intro": "Small playable prototypes and design experiments that run right in your browser.",
+    "items": [],
+    "hidden": true
+  }
+}
